@@ -21,7 +21,7 @@ ou apenas executando o ficheiro start.bat
 O bot é chamado através do prefixo "--", como por exemplo:
 >--help
 
-![commands](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/tree/master/commands.png)
+![commands](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/commands.png)
 
 ### Regras
 
@@ -29,15 +29,15 @@ Este comando envia uma direct message (DM) para o utilizar que o invoca
 
 >--regras
 
-![regras2](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/regras1.png)
+![regras2](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/regras1.png)
 
-![regras](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/regras.png)
+![regras](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/regras.png)
 
 ### Ranks
 
 >--ranks
 
-![ranks](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/ranks.png)
+![ranks](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/ranks.png)
 
 ### Roles
 
@@ -59,16 +59,16 @@ Através de um vetor de strings, o bot devolverá um meme aleatório. Se for int
 
 >--poll , Isto é o título, Opção 1, Opção 2, Opção adicional
 
-![poll](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/poll.png)
+![poll](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/poll.png)
 
 ## Voting System
 
 Este sistema permite, dado o um channel, criar um simples sistema de votação para as imagens(jpg, png ou gif) postadas.
 
-![voting](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/meme.png)
+![voting](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/meme.png)
 
 ## Talking
 
 Ao dar tag ao bot (@Shenron) é possível criar uma interação com ele. Existem várias, pro exemplo:
 
-![talking](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/talking.png)
+![talking](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/master/exImages/talking.png)

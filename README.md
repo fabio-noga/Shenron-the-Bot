@@ -6,9 +6,9 @@ Este bot ajuda na interação do utilizador com o servidor e na interação entr
 
 Funcionalidades:
  - [Comandos básicos](#comandos)
- - [Poll](#poll)
- - [Sistema de Votação](#-voting-system)
- - [Talking](#Talking)
+ - [Poll](#tabela-de-votação)
+ - [Sistema de Votação](#voting-system)
+ - [Talking](#talking)
 
 Requisitos: Node
 Inicialização: 
@@ -55,7 +55,7 @@ Automaticamente dá o role **nsfw** ao utilizador invocador
 
 Através de um vetor de strings, o bot devolverá um meme aleatório. Se for introduzido um [meme] 
 
-### Poll (Tabela de Votação)
+### Tabela de Votação
 
 >--poll , Isto é o título, Opção 1, Opção 2, Opção adicional
 

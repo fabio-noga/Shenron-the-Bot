@@ -21,7 +21,7 @@ ou apenas executando o ficheiro start.bat
 O bot é chamado através do prefixo "--", como por exemplo:
 >--help
 
-![commands](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/commands.png)
+![commands](https://raw.githubusercontent.com/fabio-noga/Shenron-the-Bot/exImages/tree/master/commands.png)
 
 ### Regras
 

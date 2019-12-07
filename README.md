@@ -2,6 +2,8 @@
 A Simple Discord Bot
 *by* me.
 
+DISCLAIMER: This project it's full of inside memes and Portuguese NSFW (curse involved). It was made for fun, not for work. All documentation is in portuguese.
+
 Este bot ajuda na interação do utilizador com o servidor e na interação entre utilizadores.
 
 Funcionalidades:
